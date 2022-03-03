@@ -1,7 +1,4 @@
 Initial text
-<<<<<<< HEAD
 Flow is good
 In develop
-=======
-Flow is good
->>>>>>> 4c84735fe75f176948a44d73e38486d16164a3ca
+
